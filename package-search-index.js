@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.saviynt.ssm.abstractConnector"},{"l":"com.saviynt.ssm.abstractConnector.exceptions"},{"l":"com.saviynt.ssm.abstractConnector.utility"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.saviynt.ssm.abstractConnector"}]
